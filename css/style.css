@@ -1,0 +1,33 @@
+
+body{
+    background-image: url(../abstract-colourful-watercolour-background-free-vector.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
+
+h3{
+    color:#AAA ;
+}
+
+
+
+
+
+
+
+.button1{
+    background-color: #004ea1;
+   
+    color: aliceblue;
+    border: 1px solid;
+    border-radius: 5px;
+}
+button:hover{
+   background-color:#002d61 ; 
+}
+
+
+
